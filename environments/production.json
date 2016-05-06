@@ -1,0 +1,10 @@
+{
+  "name": "production",
+  "description": "For Prods!",
+  "cookbook": "apache",
+  "override_attributes": {
+    "pci": {
+      "in_scope": true
+    }
+  }
+}
