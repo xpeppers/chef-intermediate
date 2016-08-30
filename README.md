@@ -4,7 +4,7 @@ XPeppers Chef intermediate training starting environment
 ## Install required software:
 
 - Install [VirtualBox](https://www.virtualbox.org/)
-- Download [chef-intermediate.ova](https://download.xpeppers.com/chef-intermediate.ova) virtual machine
+- Download [chef-training.ova](https://download.xpeppers.com/chef-training.ova) virtual machine
 
 ## Import virtual machine into VirtualBox
 
